@@ -1,5 +1,4 @@
-# Basic-Switch-Network-Implementation-project-01
-# Basic Switch Network - Cisco Packet Tracer
+# Basic-Switch-Network-Implementation-project-01 - Cisco Packet Tracer
 
 A fundamental LAN switching project built with Cisco Packet Tracer. This project demonstrates core networking concepts including Ethernet switching, basic switch configuration, IP addressing, and network connectivity.
 
